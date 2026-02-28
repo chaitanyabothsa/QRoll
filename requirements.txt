@@ -1,0 +1,9 @@
+streamlit
+qrcode[pil]
+pandas
+Pillow
+opencv-python
+pyzbar
+numpy
+opencv-python
+numpy
